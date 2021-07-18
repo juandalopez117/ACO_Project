@@ -1,6 +1,6 @@
 # ACO_Project
 
-An ACO modified for visual purposes. The algorithm related to Ants Colony optimization belongs to Akavall, i only did only small modifications. The algorithm proposes a minimal route that connects two non-adjacent nodes, with the restriction from pass for a intermediate node. With the distances between nodes (given in the file MtxDistancia.csv, seen as a reference points of a city with their distances) and the adjacencies are created ( with the file MtxAdyacencias.csv). Later. the ACO algorithm is used and then their results are seen of a graphic way. 
+An ACO modified for visual purposes. The algorithm related to Ants Colony optimization belongs to Akavall, i only did some small modifications. The algorithm proposes a minimal route that connects two non-adjacent nodes, with the restriction from pass for a intermediate node. With the distances between nodes (given in the file MtxDistancia.csv, seen as a reference points of a city with their distances) and the adjacencies are created ( with the file MtxAdyacencias.csv). Later. the ACO algorithm is used and then their results are seen of a graphic way. 
 
 
 Un ACO modificado ligeramente para propósitos visuales. El algoritmo inicial no es mio, el correspondiente código ACO corresponde a Akavall. 
