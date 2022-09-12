@@ -5,3 +5,5 @@ An ACO modified for visual purposes. The algorithm related to Ants Colony optimi
 
 Un ACO modificado ligeramente para propósitos visuales. El algoritmo inicial no es mio, el correspondiente código ACO corresponde a Akavall. 
 Dicho algoritmo plantea una ruta mínima que conecta dos nodos no adyacentes, sujetos a la restricción de pasar por un nodo intermedio. Se toma en cuenta distancias entre nodos (puntos de referencia de una ciudad dada con sus distancias, archivo MtxDistancia.csv) y se crean las adyacencias (archivo MtxAdyacencia.csv) para aplicar el ACO y tener un resultado de manera gráfica.
+
+![Figure_1](https://user-images.githubusercontent.com/77028323/189565660-f4bd0d36-b8ff-40ba-8fef-c461e3c6de3e.png)
